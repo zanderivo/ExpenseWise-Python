@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# ExpenseWise specific data directory
+ExpenseWiseData/
